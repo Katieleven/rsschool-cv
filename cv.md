@@ -68,3 +68,55 @@ Owner and Manager
 - **Competencies Acquired:** In-depth knowledge of business economics, economic analysis, and planning. Expertise in management practices within industrial sectors, particularly metallurgy.
 - **Skills:** Ability to manage complex projects, including budgeting, resource allocation, and process improvement in large-scale industrial settings.
 
+### 1990  
+**Graduated from Secondary School N.78 with a focus on history**
+
+---
+
+## Contacts
+
+- **C:** [+491759072136](tel:+491759072136)
+- **E:** [KateRinaLev@web.de](mailto:KateRinaLev@web.de)
+
+---
+
+## Tech Skills
+
+- **Frontend Technologies:**
+  - **HTML5 & CSS3:** Creating structured, responsive web layouts.
+  - **JavaScript:** Understanding of foundational JS to enhance interactive elements.
+  - **Git:** Version control experience for team collaboration and code management.
+
+- **Frameworks & Libraries:**
+  - **React (Basics):** Familiar with React components and managing state for dynamic UI.
+  - **Bootstrap5:** Experienced with Bootstrap for quick and responsive designs.
+
+- **Tools:**
+  - **GitHub:** Version control for team collaboration and project history.
+  - **Figma (Basic):** Basic knowledge to collaborate on design-focused projects.
+  - **VS Code:** Proficient in using VS Code for efficient code editing and debugging.
+
+- **SEO & Product Feed Management:**
+  - **SEO Knowledge:** Practical understanding of optimizing content and structure for search engines.
+  - **Product Feed Management:** Skilled in managing and optimizing product listings for improved reach and conversion.
+
+---
+
+## Soft Skills
+
+- **Adaptability and Quick Learning:** Able to quickly grasp new concepts and tools, seamlessly adjusting to the demands of changing environments and technologies.
+- **Effective Communication:** Skilled in conveying complex information clearly and persuasively to clients, team members, and stakeholders, ensuring alignment and understanding.
+- **Problem-Solving and Strategic Thinking:** Proficient in analyzing challenges from multiple perspectives to find innovative and efficient solutions.
+- **Project Management and Organization:** Over 30 years of experience managing projects with attention to detail, ensuring timely completion, budget adherence, and optimal resource allocation.
+- **Client Relationship Building:** Experienced in developing and maintaining long-term client relationships, understanding and meeting client needs, and fostering trust and loyalty.
+- **Collaboration and Team Leadership:** Proven track record in creating a positive team environment, motivating and guiding teams toward shared success.
+- **Goal-Oriented and Detail-Focused:** Committed to achieving high standards of quality and precision in all projects.
+
+---
+
+## Proficiency
+
+- **Driver's License:** Class B
+- **German:** B2
+- **Ukrainian:** Native speaker
+- **Russian:** Native speaker
